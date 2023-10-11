@@ -1,0 +1,16 @@
+{
+  "name": "dwf-n2-desafio-state",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:mati-galla/dwf-n2-desafio-state.git",
+  "author": "mati-galla <matias.jgallardo@gmail.com>",
+  "license": "MIT",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
